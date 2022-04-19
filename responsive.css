@@ -1,0 +1,13 @@
+@media(min-width:767px){
+    main section{
+        width: 100%;
+    }
+}
+@media(max-width:766px){
+    .color-section{
+        padding: 2rem;
+    }
+    .court-msg{
+        font-size: 1.2rem;
+    }
+}
